@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="sun.svg">../icons/sun.svg</file>
+    </qresource>
+</RCC>
